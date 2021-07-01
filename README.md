@@ -15,14 +15,16 @@ apps
 
 ## Video Demo
 
-- [x] **demo**: [maps-with-layer 🎞️][#video-leafmap-with-layer] (**code**: [apps/maps_with_layer][#app-maps-with-layer])
+| App Name | Code | Video Demo | Status | Description |
+|---|:---:|:---:|:---:|:---|
+| **`maps_with_layer`** | [🗒️][#app-maps-with-layer] | [🎞️][#video-leafmap-with-layer] | ✅ | Intercative Leafmap with layer(s) embedded in a Streamlit app. |
+| **`minimal_example`** | [🗒️][#app-minimal-example] | [🎞️][#video-leafmap-with-layer] | [❓ **`TBD`**][#video-minimal-example] | Intercative Leafmap with heatmap embedded in a Streamlit app. |
 
-  [#video-leafmap-with-layer]: https://youtu.be/sBGZXEEQcTw
 
-  [#app-maps-with-layer]: ./apps/maps_with_layer
+[#video-leafmap-with-layer]: https://youtu.be/sBGZXEEQcTw
+[#app-maps-with-layer]: ./apps/maps_with_layer
 
-- [ ] **demo**: [minimal-example](./README.md) **`TBD`** (**code**: [apps/minimal_example][#app-minimal-example])
-
-  [#app-minimal-example]: ./apps/minimal_example
+[#video-minimal-example]: ./README.md
+[#app-minimal-example]: ./apps/minimal_example
 
 ---
