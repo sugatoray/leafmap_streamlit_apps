@@ -2,7 +2,7 @@
     // Python environment variables
     //"python.envFile": "${workspaceFolder}/project.env", //"${env:PYTHON_INSTALL_LOC}"
     // Python environment executable path
-    "python.pythonPath": "/home/sugatoray/miniconda3/envs/pl_bolts_env/bin/python",
+    "python.pythonPath": "/home/sugatoray/miniconda3/envs/pytorch_env/bin/python",
     "python.terminal.activateEnvironment": true,
     // OpenSCAD executable path
     /*
